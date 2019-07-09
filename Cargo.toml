@@ -5,6 +5,7 @@ version = "0.1.0"
 authors = ["Christoffer Lantz"]
 keywords = ["mysql", "macro", "helper"]
 license = "Apache-2.0 OR MIT"
+repository = "https://github.com/Muqito/mysql_macros"
 edition = "2018"
 
 [dependencies]
