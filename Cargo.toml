@@ -1,0 +1,7 @@
+[package]
+name = "mysql_macros"
+version = "0.1.0"
+authors = ["Christoffer Lantz"]
+edition = "2018"
+
+[dependencies]
