@@ -1,5 +1,5 @@
 # About
-This is just a quick macro to minimize the amount of maps you do with [rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple/) (shoutout to an amazing library by)
+This is just a quick macro to minimize the amount of maps you do with [rust-mysql-simple](https://github.com/blackbeam/rust-mysql-simple/) (shoutout to an amazing library)
 
 from this:
 ```rust
