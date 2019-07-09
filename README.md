@@ -24,7 +24,7 @@ from this:
 ```
 to this:
 ```rust
-    let result = crate::mysql_query!(connection,
+    let result = mysql_macros::mysql_query!(connection,
         "SELECT id, email, password FROM users WHERE email = :email",
         mysql::params!(
             "email" => username

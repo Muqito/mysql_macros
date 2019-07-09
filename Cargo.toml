@@ -1,7 +1,7 @@
 [package]
 name = "mysql_macros"
 description = "Provides simple macro(s) to help when developing with mysql"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Christoffer Lantz"]
 keywords = ["mysql", "macro", "helper"]
 license = "Apache-2.0 OR MIT"
